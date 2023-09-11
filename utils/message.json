@@ -1,0 +1,13 @@
+{
+    "error": {
+        "Network Error": "Falha de Comunicação com a API.",
+        "401": {
+            "JsonWebTokenError": "Usuário ou Senha inválido!",
+            "InvalidCredentialsError": "Usuário ou Senha inválido!",
+            "TokenExpiredError": "Token expirado, efetue o Login novamente!",
+            "NoTokenProvided": "Token inválido, efetue o Login novamente!"
+        },
+        "504": "A requisição excedeu o tempo máximo de espera.",
+        "500": "Serviço fora do ar ou com problemas."
+    }
+}

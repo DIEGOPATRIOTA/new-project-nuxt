@@ -1,0 +1,6 @@
+.v-breadcrumbs li:nth-child(even) {
+    padding: 0;
+}
+.v-breadcrumbs {
+    font-weight: bolder;
+}

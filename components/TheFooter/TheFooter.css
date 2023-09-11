@@ -1,0 +1,16 @@
+.img-logo-footer {
+    margin-top: 0px;
+    position: relative;
+    width: 60px;
+}
+
+.versions {
+  margin-top: -12px;
+}
+
+.theme--light.v-footer {
+  background-color: white;
+  border-top-color: #bdbdbd30;
+  border-top-style: inset;
+  border-top-width: 1px;
+}

@@ -1,0 +1,16 @@
+.login-divider {
+  border-color: #fff;
+}
+
+.login-form {
+  max-width: 600px;
+}
+
+.v-btn{
+  text-transform: none;
+}
+
+.v-btn.v-btn--disabled:not(.v-btn--flat):not(.v-btn--text):not(.v-btn--outlined) {
+  background-color: #C4C4C4 !important;
+  color: white !important;
+}

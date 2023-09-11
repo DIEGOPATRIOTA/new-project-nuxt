@@ -1,0 +1,25 @@
+.imgs-header {
+  width: 50px;
+  margin-left: 26px;
+  margin-top: 20px;
+}
+
+.top-layout-header {
+  margin-bottom: 20px !important;
+}
+.management-logo {
+  margin-left: 34px;
+}
+
+.text-management {
+  margin-left: -1px;
+  z-index: 2;
+}
+
+.v-application .headline {
+  font-size: 1.0rem !important;
+}
+
+.v-btn{
+  text-transform: none;
+}
