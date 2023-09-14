@@ -2,6 +2,8 @@
   "name": "new-project-nuxt",
   "version": "1.0.0",
   "private": true,
+  "author": "diegoraniery@hotmail.com",
+  "license": "ISC",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
